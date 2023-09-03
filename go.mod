@@ -1,4 +1,4 @@
-module 1a-insec.net/cmd/readability
+module github.com/iacore/readability-cli
 
 go 1.21.0
 
